@@ -15,8 +15,11 @@ the design will be given ).
 
 ## Task:
 
-Using [this link](https://www.themealdb.com/api/json/v1/1/categories.php) your task is to construct a webpage as shown below.
+Using [this api](https://www.themealdb.com/api/json/v1/1/categories.php), your task is to construct a webpage as shown below.
 
 #### Note: you need not be accurate with colors or margin -- but the structure of the website must be same.
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/demo-js-ca3-project.png)
+
+## Resources:
+The above api was taken from [](https://www.themealdb.com/api.php)
