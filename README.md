@@ -1,4 +1,4 @@
-# Objective:
+## Objective:
 
 The objective of this lab is to cover the following pointers:
 
@@ -13,9 +13,9 @@ The purpose of this lab is just to cover the above pointers - this lab will not 
 2. how to design a page or which design is better. ( although some part of this lab will require you to use CSS for designing - but this time
 the design will be given ).
 
-Task:
+## Task:
 
-Using ![this link](https://www.themealdb.com/api/json/v1/1/categories.php) your task is to construct a webpage as shown below.
+Using ![this link](www.themealdb.com/api/json/v1/1/categories.php) your task is to construct a webpage as shown below.
 
 #### Note: you need not be accurate with colors or margin -- but the structure of the website must be same.
 
