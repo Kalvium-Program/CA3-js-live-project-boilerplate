@@ -15,7 +15,7 @@ the design will be given ).
 
 ## Task:
 
-Using ![this link](https://www.themealdb.com/api/json/v1/1/categories.php) your task is to construct a webpage as shown below.
+Using [this link](https://www.themealdb.com/api/json/v1/1/categories.php) your task is to construct a webpage as shown below.
 
 #### Note: you need not be accurate with colors or margin -- but the structure of the website must be same.
 
